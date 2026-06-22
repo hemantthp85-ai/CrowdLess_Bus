@@ -1,0 +1,40 @@
+name: croud
+description: CrowdLess Bus - Smart public transportation app to know bus occupancy and location before you board.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter 
+
+  cupertino_icons: ^1.0.8
+  flutter_riverpod: ^2.5.1
+  firebase_core: ^2.32.0
+  firebase_auth: ^4.19.7
+  cloud_firestore: ^4.17.5
+  google_maps_flutter: ^2.6.2
+  geolocator: ^11.0.0
+  google_fonts: ^6.2.1
+  shimmer: ^3.0.0
+  shared_preferences: ^2.2.3
+  intl: ^0.19.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: ^0.14.3
+
+flutter:
+  uses-material-design: true
+
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: "assets/icon/app_icon.png"
+  # Add assets section here if we need to load custom local icons or illustrations later.
+  # For premium graphics we will use high-fidelity custom drawings, glassmorphic icons,
+  # and Google Fonts directly via code.

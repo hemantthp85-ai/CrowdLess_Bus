@@ -1,0 +1,37 @@
+{
+  "flutter": {
+    "platforms": {
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "crowdlessbus",
+          "configurations": {
+            "android": "1:73561006053:android:cff9be48b5fedc1816590c",
+            "web": "1:73561006053:web:3f0ce7fa848f95cc16590c",
+            "windows": "1:73561006053:web:3f0ce7fa848f95cc16590c"
+          }
+        }
+      },
+      "android": {
+        "default": {
+          "projectId": "crowdlessbus",
+          "appId": "1:73561006053:android:cff9be48b5fedc1816590c",
+          "fileOutput": "android/app/google-services.json"
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

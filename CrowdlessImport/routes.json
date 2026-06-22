@@ -1,0 +1,779 @@
+[
+    {
+        "routeNumber": "1A",
+        "source": "Gandhipuram",
+        "destination": "Ukkadam",
+        "stops": [
+            "Gandhipuram",
+            "Town Hall",
+            "Oppanakara Street",
+            "Ukkadam"
+        ],
+        "buses": [
+            "1A"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "1C",
+        "source": "Gandhipuram",
+        "destination": "Ukkadam",
+        "stops": [
+            "Gandhipuram",
+            "Town Hall",
+            "Oppanakara Street",
+            "Ukkadam"
+        ],
+        "buses": [
+            "1C"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "1D",
+        "source": "Ukkadam",
+        "destination": "Gandhipuram",
+        "stops": [
+            "Ukkadam",
+            "Oppanakara Street",
+            "Town Hall",
+            "Gandhipuram"
+        ],
+        "buses": [
+            "1D"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "2A",
+        "source": "Gandhipuram",
+        "destination": "Peelamedu",
+        "stops": [
+            "Gandhipuram",
+            "Cross Cut Road",
+            "Lakshmi Mills",
+            "Peelamedu"
+        ],
+        "buses": [
+            "2A"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "2B",
+        "source": "Peelamedu",
+        "destination": "Gandhipuram",
+        "stops": [
+            "Peelamedu",
+            "Lakshmi Mills",
+            "Cross Cut Road",
+            "Gandhipuram"
+        ],
+        "buses": [
+            "2B"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "3A",
+        "source": "Gandhipuram",
+        "destination": "Singanallur",
+        "stops": [
+            "Gandhipuram",
+            "Lakshmi Mills",
+            "Hope College",
+            "Singanallur"
+        ],
+        "buses": [
+            "3A"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "3B",
+        "source": "Singanallur",
+        "destination": "Gandhipuram",
+        "stops": [
+            "Singanallur",
+            "Hope College",
+            "Lakshmi Mills",
+            "Gandhipuram"
+        ],
+        "buses": [
+            "3B"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "3C",
+        "source": "Gandhipuram",
+        "destination": "Singanallur",
+        "stops": [
+            "Gandhipuram",
+            "Lakshmi Mills",
+            "Hope College",
+            "Singanallur"
+        ],
+        "buses": [
+            "3C"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "3H",
+        "source": "Gandhipuram",
+        "destination": "Hope College",
+        "stops": [
+            "Gandhipuram",
+            "Lakshmi Mills",
+            "Hope College"
+        ],
+        "buses": [
+            "3H"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "4A",
+        "source": "Gandhipuram",
+        "destination": "Hope College",
+        "stops": [
+            "Gandhipuram",
+            "Lakshmi Mills",
+            "Hope College"
+        ],
+        "buses": [
+            "4A"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "4B",
+        "source": "Hope College",
+        "destination": "Gandhipuram",
+        "stops": [
+            "Hope College",
+            "Lakshmi Mills",
+            "Gandhipuram"
+        ],
+        "buses": [
+            "4B"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "5A",
+        "source": "Gandhipuram",
+        "destination": "Airport",
+        "stops": [
+            "Gandhipuram",
+            "Lakshmi Mills",
+            "Hope College",
+            "Codissia",
+            "Airport"
+        ],
+        "buses": [
+            "5A"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "5E",
+        "source": "Gandhipuram",
+        "destination": "Airport",
+        "stops": [
+            "Gandhipuram",
+            "Lakshmi Mills",
+            "Hope College",
+            "Codissia",
+            "Airport"
+        ],
+        "buses": [
+            "5E"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "6A",
+        "source": "Airport",
+        "destination": "Gandhipuram",
+        "stops": [
+            "Airport",
+            "Codissia",
+            "Hope College",
+            "Lakshmi Mills",
+            "Gandhipuram"
+        ],
+        "buses": [
+            "6A"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "7A",
+        "source": "Gandhipuram",
+        "destination": "Saravanampatti",
+        "stops": [
+            "Gandhipuram",
+            "Lakshmi Mills",
+            "Peelamedu",
+            "Codissia",
+            "Saravanampatti"
+        ],
+        "buses": [
+            "7A"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "7B",
+        "source": "Saravanampatti",
+        "destination": "Gandhipuram",
+        "stops": [
+            "Saravanampatti",
+            "Codissia",
+            "Peelamedu",
+            "Lakshmi Mills",
+            "Gandhipuram"
+        ],
+        "buses": [
+            "7B"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "8A",
+        "source": "Gandhipuram",
+        "destination": "KCT",
+        "stops": [
+            "Gandhipuram",
+            "Lakshmi Mills",
+            "Peelamedu",
+            "Saravanampatti",
+            "KCT"
+        ],
+        "buses": [
+            "8A"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "9A",
+        "source": "KCT",
+        "destination": "Gandhipuram",
+        "stops": [
+            "KCT",
+            "Saravanampatti",
+            "Peelamedu",
+            "Lakshmi Mills",
+            "Gandhipuram"
+        ],
+        "buses": [
+            "9A"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "10A",
+        "source": "Gandhipuram",
+        "destination": "Vadavalli",
+        "stops": [
+            "Gandhipuram",
+            "RS Puram",
+            "Saibaba Colony",
+            "Vadavalli"
+        ],
+        "buses": [
+            "10A"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "11A",
+        "source": "Vadavalli",
+        "destination": "Gandhipuram",
+        "stops": [
+            "Vadavalli",
+            "Saibaba Colony",
+            "RS Puram",
+            "Gandhipuram"
+        ],
+        "buses": [
+            "11A"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "12D",
+        "source": "Gandhipuram",
+        "destination": "PSG College",
+        "stops": [
+            "Gandhipuram",
+            "Cross Cut Road",
+            "Lakshmi Mills",
+            "Hope College",
+            "PSG Tech",
+            "PSG Hospital",
+            "PSG College"
+        ],
+        "buses": [
+            "12D"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "13A",
+        "source": "Gandhipuram",
+        "destination": "Town Hall",
+        "stops": [
+            "Gandhipuram",
+            "Town Hall"
+        ],
+        "buses": [
+            "13A"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "14A",
+        "source": "Town Hall",
+        "destination": "Gandhipuram",
+        "stops": [
+            "Town Hall",
+            "Gandhipuram"
+        ],
+        "buses": [
+            "14A"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "15A",
+        "source": "Gandhipuram",
+        "destination": "Ondipudur",
+        "stops": [
+            "Gandhipuram",
+            "Town Hall",
+            "Sungam",
+            "Ondipudur"
+        ],
+        "buses": [
+            "15A"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "16A",
+        "source": "Ondipudur",
+        "destination": "Gandhipuram",
+        "stops": [
+            "Ondipudur",
+            "Sungam",
+            "Town Hall",
+            "Gandhipuram"
+        ],
+        "buses": [
+            "16A"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "17A",
+        "source": "Gandhipuram",
+        "destination": "PSG College",
+        "stops": [
+            "Gandhipuram",
+            "Lakshmi Mills",
+            "Hope College",
+            "PSG College"
+        ],
+        "buses": [
+            "17A"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "18A",
+        "source": "PSG College",
+        "destination": "Gandhipuram",
+        "stops": [
+            "PSG College",
+            "Hope College",
+            "Lakshmi Mills",
+            "Gandhipuram"
+        ],
+        "buses": [
+            "18A"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "19C",
+        "source": "Gandhipuram",
+        "destination": "Singanallur",
+        "stops": [
+            "Gandhipuram",
+            "Lakshmi Mills",
+            "Hope College",
+            "Singanallur"
+        ],
+        "buses": [
+            "19C"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "20A",
+        "source": "Singanallur",
+        "destination": "Gandhipuram",
+        "stops": [
+            "Singanallur",
+            "Hope College",
+            "Lakshmi Mills",
+            "Gandhipuram"
+        ],
+        "buses": [
+            "20A"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "21G",
+        "source": "Gandhipuram",
+        "destination": "PSG College",
+        "stops": [
+            "Gandhipuram",
+            "Cross Cut Road",
+            "Lakshmi Mills",
+            "Fun Mall",
+            "Hope College",
+            "Peelamedu",
+            "PSG Tech",
+            "PSG Hospital",
+            "PSG College"
+        ],
+        "buses": [
+            "21G"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "22B",
+        "source": "Gandhipuram",
+        "destination": "Town Hall",
+        "stops": [
+            "Gandhipuram",
+            "Town Hall"
+        ],
+        "buses": [
+            "22B"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "23A",
+        "source": "Gandhipuram",
+        "destination": "Airport",
+        "stops": [
+            "Gandhipuram",
+            "Lakshmi Mills",
+            "Hope College",
+            "Codissia",
+            "Airport"
+        ],
+        "buses": [
+            "23A"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "24A",
+        "source": "Airport",
+        "destination": "Gandhipuram",
+        "stops": [
+            "Airport",
+            "Codissia",
+            "Hope College",
+            "Lakshmi Mills",
+            "Gandhipuram"
+        ],
+        "buses": [
+            "24A"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "25A",
+        "source": "Gandhipuram",
+        "destination": "Hope College",
+        "stops": [
+            "Gandhipuram",
+            "Lakshmi Mills",
+            "Hope College"
+        ],
+        "buses": [
+            "25A"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "26A",
+        "source": "Hope College",
+        "destination": "Gandhipuram",
+        "stops": [
+            "Hope College",
+            "Lakshmi Mills",
+            "Gandhipuram"
+        ],
+        "buses": [
+            "26A"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "27A",
+        "source": "Gandhipuram",
+        "destination": "Saravanampatti",
+        "stops": [
+            "Gandhipuram",
+            "Peelamedu",
+            "Codissia",
+            "Saravanampatti"
+        ],
+        "buses": [
+            "27A"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "28A",
+        "source": "Saravanampatti",
+        "destination": "Gandhipuram",
+        "stops": [
+            "Saravanampatti",
+            "Codissia",
+            "Peelamedu",
+            "Gandhipuram"
+        ],
+        "buses": [
+            "28A"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "29A",
+        "source": "Gandhipuram",
+        "destination": "Peelamedu",
+        "stops": [
+            "Gandhipuram",
+            "Lakshmi Mills",
+            "Peelamedu"
+        ],
+        "buses": [
+            "29A"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "30A",
+        "source": "Peelamedu",
+        "destination": "Gandhipuram",
+        "stops": [
+            "Peelamedu",
+            "Lakshmi Mills",
+            "Gandhipuram"
+        ],
+        "buses": [
+            "30A"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "31A",
+        "source": "Gandhipuram",
+        "destination": "KCT",
+        "stops": [
+            "Gandhipuram",
+            "Peelamedu",
+            "Saravanampatti",
+            "KCT"
+        ],
+        "buses": [
+            "31A"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "32A",
+        "source": "KCT",
+        "destination": "Gandhipuram",
+        "stops": [
+            "KCT",
+            "Saravanampatti",
+            "Peelamedu",
+            "Gandhipuram"
+        ],
+        "buses": [
+            "32A"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "33G",
+        "source": "Gandhipuram",
+        "destination": "Saravanampatti",
+        "stops": [
+            "Gandhipuram",
+            "Lakshmi Mills",
+            "Peelamedu",
+            "Codissia",
+            "CHIL SEZ",
+            "Prozone Mall",
+            "Saravanampatti"
+        ],
+        "buses": [
+            "33G"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "34D",
+        "source": "Gandhipuram",
+        "destination": "Vadavalli",
+        "stops": [
+            "Gandhipuram",
+            "RS Puram",
+            "Saibaba Colony",
+            "Thadagam Road",
+            "Vadavalli"
+        ],
+        "buses": [
+            "34D"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "35A",
+        "source": "Gandhipuram",
+        "destination": "Vadavalli",
+        "stops": [
+            "Gandhipuram",
+            "RS Puram",
+            "Saibaba Colony",
+            "Vadavalli"
+        ],
+        "buses": [
+            "35A"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "45G",
+        "source": "Hope College",
+        "destination": "Gandhipuram",
+        "stops": [
+            "Hope College",
+            "Lakshmi Mills",
+            "Cross Cut Road",
+            "Gandhipuram"
+        ],
+        "buses": [
+            "45G"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "50A",
+        "source": "Vadavalli",
+        "destination": "Gandhipuram",
+        "stops": [
+            "Vadavalli",
+            "Saibaba Colony",
+            "RS Puram",
+            "Gandhipuram"
+        ],
+        "buses": [
+            "50A"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "66A",
+        "source": "Singanallur",
+        "destination": "Gandhipuram",
+        "stops": [
+            "Singanallur",
+            "Hope College",
+            "Lakshmi Mills",
+            "Gandhipuram"
+        ],
+        "buses": [
+            "66A"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "70B",
+        "source": "Gandhipuram",
+        "destination": "Airport",
+        "stops": [
+            "Gandhipuram",
+            "Lakshmi Mills",
+            "Hope College",
+            "Codissia",
+            "Airport"
+        ],
+        "buses": [
+            "70B"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "99A",
+        "source": "Airport",
+        "destination": "Gandhipuram",
+        "stops": [
+            "Airport",
+            "Codissia",
+            "Hope College",
+            "Lakshmi Mills",
+            "Gandhipuram"
+        ],
+        "buses": [
+            "99A"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "101A",
+        "source": "Gandhipuram",
+        "destination": "Saravanampatti",
+        "stops": [
+            "Gandhipuram",
+            "Lakshmi Mills",
+            "Peelamedu",
+            "CHIL SEZ",
+            "Saravanampatti"
+        ],
+        "buses": [
+            "101A"
+        ],
+        "stopCoordinates": {}
+    },
+    {
+        "routeNumber": "S1",
+        "source": "Saravanampatti",
+        "destination": "Gandhipuram",
+        "stops": [
+            "Saravanampatti",
+            "CHIL SEZ",
+            "Peelamedu",
+            "Lakshmi Mills",
+            "Gandhipuram"
+        ],
+        "buses": [
+            "S1"
+        ],
+        "stopCoordinates": {}
+    }
+]
